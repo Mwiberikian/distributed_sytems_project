@@ -199,6 +199,6 @@ load-balancer-project/
 
 ## Authors
 Muchemi Kian Mwiberi - 159377
-Nicole Cherop - 167216
+Nicole Cherop - 167216 [https://drive.google.com/file/d/1g-ELtTRLskUgbOgmPMCioU75m-qWDp_P/view?usp=sharing}
 Trina Kinyua - 168111
 Albert Jonathan - 166343
